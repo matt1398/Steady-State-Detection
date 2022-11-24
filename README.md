@@ -1,11 +1,11 @@
 # Steady-State-Detection
 APC 모델링 자동화를 위한 Steady-State-Detection
 
-### 1. 실행환경
-아나콘다 Jupyter Notebook
+## 1. 실행환경
+> 아나콘다 Jupyter Notebook
 
-### 2. 실행방
-Steady State Detector.ipynb 파일을 아나콘다 Jupyter Notebook으로 실행한 후 Cell 실행
+## 2. 실행방식
+> Steady State Detector.ipynb 파일을 아나콘다 Jupyter Notebook으로 실행한 후 Cell 실행
 
 ## 3. 코드설명
 > 1. 우선 Steady State Detect에 앞서 Nonlinear한 모델을 Linear하게 바꾸는 과정을 먼저 진행한다.
