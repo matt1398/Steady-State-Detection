@@ -1,5 +1,5 @@
 # Steady-State-Detection
-APC 모델링 자동화를 위한 Steady-State-Detection
+Steady-State-Detection code for automatic APC modeling 
 
 ## 1. 실행환경
 > Anaconda Jupyter Notebook
